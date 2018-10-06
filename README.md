@@ -1,1 +1,3 @@
 # unigermana-176-g5-Universidades-Amigas-del-Territorio
+# Nombre del proyecto: Universidades amigas del territorio
+## Descripción: La situación de la localidad parte de que miles de estudiantes que provienen de otras partes de la ciudad visitan a diario el territorio haciendo uso del espacio público, pero la comunidad percibe que aquellos visitantes no dejan algo positivo aparte del consumo de servicios y productos en el sector.
